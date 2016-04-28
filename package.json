@@ -98,7 +98,7 @@
     "url": "git://github.com/gotwarlost/istanbul.git"
   },
   "dependencies": {
-    "istanbul-api": "^1.0.0-alpha",
+    "istanbul-api": "git://github.com/jameshopkins/istanbul-api.git#lib-instrument-update",
     "abbrev": "1.0.x",
     "async": "1.x",
     "js-yaml": "3.x",
@@ -111,7 +111,7 @@
     "coveralls": "2.x",
     "glob": "^5.0.14",
     "istanbul-lib-coverage": "^1.0.0-alpha.0",
-    "istanbul-lib-instrument": "^1.0.0-alpha.0",
+    "istanbul-lib-instrument": "git://github.com/jameshopkins/istanbul-lib-instrument.git#estraverse-visitorkey-sync",
     "jshint": "^2.8.0",
     "nodeunit": "0.9.x",
     "requirejs": "2.x",
